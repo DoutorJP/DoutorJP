@@ -1,6 +1,3 @@
-### Olá, Sou o João Pedro 👋
-
-- 🌱 Atualmente estou aprendendo C, Html, Css
-- 📫 How to reach me: [ https://doutorjp.xyz ][Meu site]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, Bem vindo 
+## Me chamo João Pedro
+ - Meu website: https://doutorjp.xyz
