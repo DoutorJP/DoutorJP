@@ -1,6 +1,6 @@
 ### Olá, Sou o João Pedro 👋
 
 - 🌱 Atualmente estou aprendendo C, Html, Css
-- 📫 How to reach me: [https://doutorjp.github.io][Meu site]
+- 📫 How to reach me: [ https://doutorjp.xyz ][Meu site]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
