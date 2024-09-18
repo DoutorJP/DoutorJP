@@ -24,7 +24,7 @@ int main(int argc, char** argv){
 
 <div>
     <a href="https://github.com/DoutorJP">
-        <img src="https://skillicons.dev/icons?i=linux,cpp,vim,emacs&theme=light">
+        <img src="https://skillicons.dev/icons?i=linux,cpp,csharp,java,vim,emacs&theme=light">
     </a>
 </div>
 
