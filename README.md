@@ -5,6 +5,9 @@ int main(int argc, char** argv){
     std::cout << "Hello World!" << std::endl;
 }
 ```
+
+![GitHub followers](https://img.shields.io/github/followers/DoutorJP?style=for-the-badge)
+
 <h2>Informações básicas:</h2>
 <ul>
     <li>Formando como técnico de informática no <a href="https://www.ifsp.edu.br/">IFSP</a></li>
